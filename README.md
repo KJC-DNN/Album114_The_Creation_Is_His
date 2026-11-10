@@ -16,10 +16,10 @@ Naming-only intercession across SCP ranges and wider subjects that claim to thre
 # Published
 1. GitHub: https://github.com/KJC-DNN/Album114_The_Creation_Is_His/releases/tag/114.0.0
 2. Archive: album-114-the-creation-is-his-main-cover
-3. Zenodo:
+3. Zenodo: https://doi.org/10.5281/zenodo.24107106
 
 # Instrumental
 ## Published
 1. GitHub: https://github.com/KJC-DNN/Album114_Instrumentals_The_Creation_Is_His/releases/tag/114.0.0
 2. Archive: album-114-instrumentals-the-creation-is-his-cover
-3. Zenodo:
+3. Zenodo: https://doi.org/10.5281/zenodo.24106848
